@@ -1,0 +1,5 @@
+{
+  "name": "HTML Code Exporter",
+  "description": "A simple online tool to preview HTML code and export the rendered output as a PNG or JPG image with a custom filename.",
+  "requestFramePermissions": []
+}
